@@ -11,6 +11,24 @@
 }
 
 .parrafosSecundarios{
+    color: blueviolet; 
+    }
     
+p   {
+   color: #690bac;     
+    }
     
+a:hover {
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    transition: 0.5s;
 }
+
+a:active {
+    color: black;
+    background-color: white;
+    transition: 0.1s;
+}
+
+
