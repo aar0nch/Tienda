@@ -71,8 +71,8 @@ body{
 }
 
 #contenido {
-    padding: 10px 20px;
-    position: fixed;
+    padding: 40px 20px 0px;
+    position:static;
     top: 9%;
     left: 0%;
     width: 100%;
